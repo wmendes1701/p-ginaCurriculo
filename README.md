@@ -1,2 +1,2 @@
-# p-ginaCurriculo
+# paginaCurriculo
 Currículo feito com HTML,CSS 
