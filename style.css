@@ -1,0 +1,62 @@
+#header {
+    background-color: rgb(236, 196, 144);
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-family: "Hubballi", sans-serif;
+    text-transform: uppercase;
+}
+
+#nameAndTitle {
+    background-color: white;
+    width: 500px;
+    margin: 0px auto;
+    text-align: center;
+}
+
+#nameAndTitle h1, h2 {
+    margin: 0;
+}
+
+h1, h2, h3 {
+    text-transform: uppercase;
+}
+
+#contact {
+    list-style-type: none;
+}
+
+#contact i {
+    width: 30px;
+    color: burlywood;
+}
+
+#conteiner {
+    display: grid;
+    grid-template-columns: 30% auto;
+    grid-column-gap: 20px;
+}
+#sidebar {
+    display: flex;
+    flex-direction:column ;
+    row-gap: 20px;    
+}
+
+#content {
+    margin-left: 10px;
+    margin-top: 2px;
+}
+
+#experiencia {
+    margin-top: 15px;
+}
+
+.card h3 {
+    font-family: "Hubballi", sans-serif;
+}
+    
+.card {
+    font-family: Montserrat;
+    border: 1px solid rgb(216, 206, 206);
+    border-radius: 15px;
+    padding: 15px;
+}
